@@ -44,5 +44,5 @@ int main()
 
 /*
 report:-
-    this C program can be used for mathematical problen solving.this will be very useful to mathematical calculation works.
+    this C program can be used for mathematical problem solving.this will be very useful to mathematical calculation works.
     */
